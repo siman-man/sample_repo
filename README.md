@@ -1,2 +1,2 @@
 # sample_repo
-sample
+sample_repo
